@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="it_logo_white.png" alt="BYU-Idaho Logo" width="auto" height="100">
+  <img src="logo.png" alt="BYU-Idaho Logo" width="auto" height="100">
 </div>
 
 ## About

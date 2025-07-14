@@ -58,8 +58,7 @@ _This repository was built by and maintained with ❤️ by the BYU‑Idaho AI E
   <p><strong>Brigham Young University–Idaho</strong></p>
   <p>525 S Center St, Rexburg, ID 83460</p>
   <p><strong>
-    <a href="tel:+12084969000">Phone</a> | 
     <a href="mailto:itservicedesk@byui.edu">Email</a> | 
-    <a href="https://www.byui.edu/information-technology/">Site</a>
+    <a href="https://www.byui.edu/information-technology/">Website</a>
   </strong></p>
 </div>
